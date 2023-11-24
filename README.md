@@ -1,0 +1,2 @@
+# dbt-sample-repository
+sample
